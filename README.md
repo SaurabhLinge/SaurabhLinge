@@ -23,31 +23,23 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 </p>
 <br/>
 
-## 📊 My Github Stats
-
-<br/>
-<p>
-    <a href="https://github.com/harshmehta813/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsh Mehta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmehta813&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
 
 <h3>Get in touch with me</h3>
 <p>
-    <a href="https://github.com/harshmehta813" target="_open">
+    <a href="https://github.com/SaurabhLinge" target="_open">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a> 
-    <a href="https://twitter.com/HMehta_" target="_open">
+    <a href="https://twitter.com/sauravlinge1" target="_open">
         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/harshmehta13/" target="_open">
+    <a href="https://www.linkedin.com/in/saurabh-linge-06b3b4217/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="mailto:harshmehta813@gmail.com" target="_open">
+    <a href="mailto:sauravlinge3@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 <br />
-<a href="https://harshme.vercel.app/">
+<a href="">
     Visit my website
 </a>
